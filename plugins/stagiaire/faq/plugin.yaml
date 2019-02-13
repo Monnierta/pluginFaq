@@ -1,6 +1,0 @@
-plugin:
-    name: 'stagiaire.faq::lang.plugin.name'
-    description: 'stagiaire.faq::lang.plugin.description'
-    author: stagiaire
-    icon: oc-icon-question-circle
-    homepage: ''
